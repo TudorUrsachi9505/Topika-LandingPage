@@ -9,4 +9,8 @@
         
         }
 
+.submit:hover{
+    color: white;
+}
+
 .form-group{ width: 25%; }
