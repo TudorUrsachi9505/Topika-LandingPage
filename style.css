@@ -212,7 +212,8 @@ h2,h3{
 /* testimonials */
 
 .testimonials { text-align: center; 
-padding-top: 70px;}
+padding-top: 70px;
+margin-bottom: 30px;}
 
 .testimonials__heading
 {
